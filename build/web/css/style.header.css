@@ -1,0 +1,95 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Aug 21, 2025, 8:15:37 AM
+    Author     : 84904
+*/
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar chính */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2c2c2c;
+    padding: 10px 20px;
+}
+
+/* Bên trái */
+.navbar-left {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-left a,
+.dropbtn {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.navbar-left a.logo {
+    font-weight: bold;
+}
+
+/* Hover hiệu ứng */
+.navbar-left a:hover,
+.dropbtn:hover {
+    background-color: #444;
+    border-radius: 4px;
+}
+
+/* Dropdown */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: 160px;
+    top: 35px;
+    left: 0;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.3);
+    border-radius: 4px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #555;
+}
+
+/* Hiện menu khi hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Bên phải */
+.navbar-right a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+}
+
+.navbar-right a:hover {
+    background-color: #444;
+    border-radius: 4px;
+}

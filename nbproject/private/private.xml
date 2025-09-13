@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/human/HumanDAO.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/typeList.jsp</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/createHuman.jsp</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/human/ERROR.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/header.jsp</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/humanList.jsp</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/css/style.login.css</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/css/style.table.css</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/filter/verifyLogin.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/controllers/createTypeController.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/login.jsp</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/web/createType.jsp</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/human/HumanDTO.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/controllers/deleteTypeController.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/controllers/loginController.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/controllers/updateHumanController.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/utils/DBUtils.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/human/HumanTypeDAO.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/controllers/createHumanController.java</file>
+            <file>file:/D:/PRJ301_3W/WorkShop02_3W/src/java/sample/controllers/deleteHumanController.java</file>
+        </group>
+    </open-files>
+</project-private>

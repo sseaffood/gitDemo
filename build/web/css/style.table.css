@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Aug 21, 2025, 8:35:42 AM
+    Author     : 84904
+*/
+
+table {
+    width: 100%;
+    table-layout: auto;
+}
+
+td input {
+    width: 100%;
+}
